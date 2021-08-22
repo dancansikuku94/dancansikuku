@@ -1,2 +1,2 @@
-# dancansikuku
+# Dancan Sikuku
 My personal portfolio
